@@ -1,4 +1,4 @@
-package BinraySearchTree;
+package BinarySearchTree;
 
 class Node {
     int key;
